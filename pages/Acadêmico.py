@@ -7,9 +7,9 @@ st.markdown(
 
             ### Pós em Data Science & Big Data (UFPR) 2023-2024
             
-            - Por meio desse curso de especialização espero conseguir agregar ainda mais valor nas análises de dados que realizo no meu dia a dia profissional. 
+            - Por meio desse curso de especialização, espero conseguir agregar ainda mais valor nas análises de dados que realizo em meu dia a dia profissional. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos para oferecer soluções cada vez mais eficazes e insights valiosos aos meus clientes e equipe. 
 
-            - Além disso, acredito que ela aumentará minha bagagem acadêmica para buscar iniciar um curso de Mestrado após a sua conclusão.
+            - Além disso, acredito que a conclusão desse curso aumentará minha bagagem acadêmica, abrindo caminho para buscar um curso de Mestrado. Tenho o desejo de aprofundar ainda mais minha expertise em análise de dados e contribuir para o avanço da área por meio de pesquisas e estudos acadêmicos.
 
             - Mais informações sobre o curso podem ser encontradas nesse [link](http://dsbd.leg.ufpr.br/)
             
