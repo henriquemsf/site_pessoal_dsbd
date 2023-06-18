@@ -7,7 +7,7 @@ st.image("static/img/hurb.png")
 st.markdown(
             """
 
-            #### Analytics Engineer Pleno
+            #### Analytics Engineer Pleno (2022-Atual)
             
             - Desenvolvimento de Catálogo de dados utilizando ferramentas open-source (DataHub)
 
@@ -33,7 +33,7 @@ st.image("static/img/grupoboticario.png")
 st.markdown(
             """
 
-            ### Analista de Revenue Growth Management Pleno (Canais Não Propietários)
+            ### Analista de Revenue Growth Management Pleno (Canais Não Propietários) (2021-2022)
             
             - Desenvolvimento de Scripts de Web-Scraping utilizando Python para extração, armazenamento e análise de preços de produtos em diversas plataformas de E-commerce (Sites e APIs)
 
@@ -51,7 +51,7 @@ st.markdown(
 st.markdown(
             """
 
-            ### Estagiário de Planejamento Financeiro
+            ### Estagiário de Planejamento Financeiro (2021-2021)
             
             - Análise de dados financeiros e acompanhamento de métricas de performance
 
@@ -65,7 +65,7 @@ st.markdown(
 st.markdown(
             """
 
-            ### Estagiário de Processos Fiscais
+            ### Estagiário de Processos Fiscais(2020-2020)
             
             - Responsável pela análise de indicadores de performance da área de processos fiscais
 
@@ -81,7 +81,7 @@ st.image("static/img/exxonmobil.png")
 st.markdown(
             """
 
-            ### Estagiário Financeiro
+            ### Estagiário Financeiro (2019-2019)
             
             - Desenvolvimento de scripts de Web Scraping utilizando Python para extração de taxas de câmbio de diversas moedas diariamente
 
