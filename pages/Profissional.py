@@ -1,12 +1,13 @@
 import streamlit as st
 
-st.title("Experiência Profissional")
+st.title("Experiência Profissional :briefcase:")
+
+st.image("static/img/hurb.png")
 
 st.markdown(
             """
 
-            ### Hurb
-            #### Analytics Engineer
+            #### Analytics Engineer Pleno
             
             - Desenvolvimento de Catálogo de dados utilizando ferramentas open-source (DataHub)
 
@@ -27,10 +28,11 @@ st.markdown(
             """
         )
 
+st.image("static/img/grupoboticario.png")
+
 st.markdown(
             """
 
-            ### Grupo Boticário
             ### Analista de Revenue Growth Management Pleno (Canais Não Propietários)
             
             - Desenvolvimento de Scripts de Web-Scraping utilizando Python para extração, armazenamento e análise de preços de produtos em diversas plataformas de E-commerce (Sites e APIs)
@@ -49,7 +51,6 @@ st.markdown(
 st.markdown(
             """
 
-            ### Grupo Boticário
             ### Estagiário de Planejamento Financeiro
             
             - Análise de dados financeiros e acompanhamento de métricas de performance
@@ -64,7 +65,6 @@ st.markdown(
 st.markdown(
             """
 
-            ### Grupo Boticário
             ### Estagiário de Processos Fiscais
             
             - Responsável pela análise de indicadores de performance da área de processos fiscais
@@ -76,10 +76,11 @@ st.markdown(
             """
         )
 
+st.image("static/img/exxonmobil.png")
+
 st.markdown(
             """
 
-            ### ExxonMobil
             ### Estagiário Financeiro
             
             - Desenvolvimento de scripts de Web Scraping utilizando Python para extração de taxas de câmbio de diversas moedas diariamente

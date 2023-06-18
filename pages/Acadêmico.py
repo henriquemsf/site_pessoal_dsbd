@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Vida Acadêmica")
+st.title("Vida Acadêmica :books:")
 
 st.markdown(
             """
