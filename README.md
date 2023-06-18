@@ -9,5 +9,3 @@ O site pode ser acessado a partir desse [link](https://henriquemsferreira.stream
 - Navegue para a pasta /SITE_PESSOAL_DSBD
 - execute o comando "pip install streamlit==1.23.1"
 - execute o comando "streamlit run Home.py"
-
-Para rodar o site localmente, basta clonar o repositório
